@@ -1,5 +1,5 @@
 class Impact < Formula
-  desc "Tell you what you're about to break, before you break it — deterministic blast-radius CLI"
+  desc "Deterministic blast-radius CLI for code changes"
   homepage "https://github.com/AncientiCe/impact-rs"
   license "MIT"
 
