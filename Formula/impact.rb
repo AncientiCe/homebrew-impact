@@ -10,20 +10,20 @@ class Impact < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.8/impact-0.11.8-aarch64-apple-darwin.tar.gz"
-      sha256 "c72cc947a65cdf0d41efb9f0ab5816343be48c023255990a4855339311ecd188"
+      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.9/impact-0.11.9-aarch64-apple-darwin.tar.gz"
+      sha256 "a504f5ab0b272a93667442aab20c2e153cb3797e87c9d9c29e57060a33ef73f5"
     end
 
     on_intel do
-      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.8/impact-0.11.8-x86_64-apple-darwin.tar.gz"
-      sha256 "a34375aa89af1fbd196e79296a40675eebb9b27733d50dd8811d4aee4f29df19"
+      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.9/impact-0.11.9-x86_64-apple-darwin.tar.gz"
+      sha256 "0801224c41a692d3f4bba8dbaed253f253dd7ff42b5d4cf0b627c8f8eb586709"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.8/impact-0.11.8-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "cae614edaf5ca08aadcfaefe05e03b8bf70ae53ab7e756b2b45d65a622dc6957"
+      url "https://github.com/AncientiCe/impact-rs/releases/download/v0.11.9/impact-0.11.9-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "949f9bb369111e306a1b7b36fad9ec8cd6428ee7ccbdea104d36399e25211115"
     end
   end
 
